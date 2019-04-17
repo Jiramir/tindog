@@ -176,9 +176,9 @@ p {
 }
 
 @media (max-width: 1028px) {
-  #title {
-    text-align: center;
-  }
+  .intro-h1{
+  text-align: center;
+}
 
   .title-image {
     position: static;
